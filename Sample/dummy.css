@@ -1,0 +1,25 @@
+.one{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.two{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin-top : 10px;
+    position: relative;
+   left: 50px;
+   top: 20px;
+    z-index: 2;
+    
+}
+.three{
+    background-color:blue;
+    width: 100px;
+    height: 100px;
+    margin-top : 10px;
+    position: relative;
+    z-index: 1;
+}
